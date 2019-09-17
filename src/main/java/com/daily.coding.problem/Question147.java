@@ -2,11 +2,12 @@ package com.daily.coding.problem;
 
 /**
  *
+ *
  */
-public class Question130 {
+public class Question147 {
 
   public static void main(String[] args) {
-    Question130 q = new Question130();
+    Question147 q = new Question147();
   }
 
 

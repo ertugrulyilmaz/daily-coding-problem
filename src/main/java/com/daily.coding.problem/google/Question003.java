@@ -4,7 +4,8 @@ package com.daily.coding.problem.google;
  *
  * This problem was asked by Google.
  *
- * Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree.
+ * Given the root to a binary tree, implement serialize(root), which serializes the tree into a string,
+ * and deserialize(s), which deserializes the string back into the tree.
  *
  * For example, given the following Node class
  *
@@ -20,4 +21,29 @@ package com.daily.coding.problem.google;
  *
  * */
 public class Question003 {
+
+  static class Node {
+    Node left;
+    Node right;
+    int val;
+
+    public Node(int val) {
+      this.val = val;
+      this.left = null;
+      this.right = null;
+    }
+  }
+
+  private static String serialize(Node root) {
+    return "";
+  }
+
+  private static Node deserialize(String s) {
+    return null;
+  }
+
+  public static void main(String[] args) {
+
+  }
+
 }
