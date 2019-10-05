@@ -3,10 +3,10 @@ package com.daily.coding.problem;
 /**
  *
  */
-public class Question189 {
+public class Question206 {
 
   public static void main(String[] args) {
-    Question189 q = new Question189();
+    Question206 q = new Question206();
   }
 
 
